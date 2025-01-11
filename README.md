@@ -1,16 +1,16 @@
 # AWS CI/CD Pipeline Implementation Project 🚀
 
+## 🏗️ Architecture
 <div align="center">
   <img src="./image/architecture.png" alt="Architecture Diagram" style="max-width: 800px; border-radius: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.1); margin: 20px 0; border: 1px solid #ddd;" />
 </div>
 
 <div align="center">
   
-  ![GitHub last commit](https://img.shields.io/github/last-commit/yourusername/your-repo?style=flat-square)
-  ![GitHub issues](https://img.shields.io/github/issues/yourusername/your-repo?style=flat-square)
-  ![GitHub pull requests](https://img.shields.io/github/issues-pr/yourusername/your-repo?style=flat-square)
-  ![GitHub stars](https://img.shields.io/github/stars/yourusername/your-repo?style=flat-square)
-  
+![GitHub last commit](https://img.shields.io/github/last-commit/Debjyoti2004/Ci-CD-Project-AWS-?style=flat-square)
+![GitHub issues](https://img.shields.io/github/issues/Debjyoti2004/Ci-CD-Project-AWS-?style=flat-square)
+![GitHub pull requests](https://img.shields.io/github/issues-pr/Debjyoti2004/Ci-CD-Project-AWS-?style=flat-square)
+![GitHub stars](https://img.shields.io/github/stars/Debjyoti2004/Ci-CD-Project-AWS-?style=flat-square)
 </div>
 
 <div align="center">
@@ -46,7 +46,7 @@ Status: Production Ready
 Environment: AWS Cloud
 ```
 
-## 🏗️ Architecture
+## ✨ Deployment Outcomes
 
 <div align="center">
   <img src="./image/output.png" alt="Pipeline Output" style="max-width: 800px; border-radius: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.1); margin: 20px 0; border: 1px solid #ddd;" />
@@ -120,7 +120,7 @@ export PROJECT_NAME=my-cicd-project
 
 ```bash
 # 1. Clone Repository
-git clone https://git-codecommit.${AWS_REGION}.amazonaws.com/v1/repos/${PROJECT_NAME}
+git clone https://github.com/Debjyoti2004/Ci-CD-Project-AWS-.git
 
 # 2. Configure AWS CLI
 aws configure
@@ -216,7 +216,7 @@ monitoring_config = {
 ```plaintext
 MIT License
 
-Copyright (c) 2024 Your Name
+Copyright (c) 2024 DEBJYOTI SHIT
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software...
