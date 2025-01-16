@@ -1,4 +1,4 @@
-# AWS CI/CD Pipeline Implementation Project 🚀
+# AWS Infrastructure Automation with CI/CD 🚀
 
 ## 🏗️ Architecture
 <div align="center">
